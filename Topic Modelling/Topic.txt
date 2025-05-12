@@ -1,0 +1,14 @@
+Topic 1:
+Student Admission And Graduation- Graduate, Convocation and Admission, Academic
+
+Topic 2:
+Offerings for students- Offer, Programs, Campus, Student
+
+Topic 3:
+Semester Activities - Semester, Grade, Applicant
+
+Topic 4:
+Faculty, Research And Academics- Faculty, Academic, Journal,Work
+
+Topic 5:
+Students life and Academic Progress- Student, program, grade, undergraduate, graduate, applicant
